@@ -1,2 +1,6 @@
 .vs/*
 /DeepEquals/obj/
+/packages
+/DeepEquals.Tests/bin/
+/DeepEquals.Tests/obj/
+/DeepEquals/bin/
